@@ -58,3 +58,6 @@ target/
 
 # VIM
 *.swp
+
+# OSX
+.DS_Store
