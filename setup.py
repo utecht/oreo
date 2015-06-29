@@ -16,7 +16,7 @@ setup(
     url='https://github.com/utecht/oreo',
     author='Joseph Utecht',
     author_email='joseph.utecht@gmail.com',
-    license='GPL2',
+    license='GPLv2',
     classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
