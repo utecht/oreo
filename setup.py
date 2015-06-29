@@ -24,7 +24,5 @@ setup(
         'Programming Language :: Python :: 3',
         ],
     keywords='REST RDF',
-    packages=find_packages(exclude=['contrub', 'docs', 'tests*'])
+    packages=find_packages(exclude=['contrib', 'docs', 'tests*'])
 )
-
-
